@@ -6,4 +6,4 @@
 ## Evaluation
 * The evaluation metric is [Coefficient of determination](https://studopedia.ru/9_153900_viborochnaya-kovariatsiya-i-viborochnaya-dispersiya.html):
 
-R^2=1−\frac{σ^2}{σ^2_y}
+$R^2=1−\frac{σ^2}{σ^2_y}$
